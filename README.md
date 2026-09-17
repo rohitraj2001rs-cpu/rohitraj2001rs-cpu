@@ -158,30 +158,23 @@ Presented **"Application of Computational Science on Environment"** at the **4th
 * Oracle Database Design Course — Oracle
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohitraj2001rs-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj2001rs-cpu&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Most Used Languages
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitraj2001rs-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitraj2001rs-cpu&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitraj2001rs-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
----
+## 🧑‍💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitraj2001rs-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 
 # 🤝 Let's Connect
 
