@@ -163,9 +163,11 @@ Presented **"Application of Computational Science on Environment"** at the **4th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohitraj2001rs-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj2001rs-cpu&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -175,7 +177,7 @@ Presented **"Application of Computational Science on Environment"** at the **4th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitraj2001rs-cpu&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -185,9 +187,9 @@ Presented **"Application of Computational Science on Environment"** at the **4th
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohit-raj-328700287)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohitraj2001rs-cpu)
 
 📧 **[rohitraj2001.rs@gmail.com](mailto:rohitraj2001.rs@gmail.com)**
 
