@@ -59,6 +59,25 @@ A full-stack personal finance management application designed to help users trac
 * Integrated MongoDB for persistent data storage.
 
 ---
+---
+
+🚀 TaskFlow – MERN Stack Project Management Platform
+
+TaskFlow is a full-stack project management application designed to simplify task organization, project tracking, and team collaboration through an intuitive and user-friendly interface.
+
+Tech: React.js • Node.js • Express.js • MongoDB • JavaScript • CSS
+
+* Developed a responsive frontend using React.js for managing projects and tasks.
+* Built backend services using Node.js and Express.js.
+* Integrated MongoDB for database management and persistent data storage.
+* Implemented RESTful APIs for communication between frontend and backend.
+* Designed an organized workflow to manage project activities and task progress.
+* Focused on creating a user-friendly interface for efficient project management.
+* Applied full-stack development concepts to build a scalable web application.
+
+GitHub: "TaskFlow-MERN" (https://github.com/rohitraj2001rs-cpu/TaskFlow-MERN)
+
+---
 
 ### 📋 Trello Clone — Collaborative Project Management
 
