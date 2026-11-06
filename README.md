@@ -61,7 +61,7 @@ A full-stack personal finance management application designed to help users trac
 ---
 ---
 
-🚀 TaskFlow – MERN Stack Project Management Platform
+🚀 TaskFlow – Collaborative Project Management Platform (MERN Stack)
 
 TaskFlow is a full-stack project management application designed to simplify task organization, project tracking, and team collaboration through an intuitive and user-friendly interface.
 
